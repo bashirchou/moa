@@ -2,7 +2,7 @@
  *    AbstractMOAObject.java
  *    Copyright (C) 2007 University of Waikato, Hamilton, New Zealand
  *    @author Richard Kirkby (rkirkby@cs.waikato.ac.nz)
- *
+ *asasasasasasasasasasasasasasasasasasasasasasasasasasasasasasasas
  *    This program is free software; you can redistribute it and/or modify
  *    it under the terms of the GNU General Public License as published by
  *    the Free Software Foundation; either version 3 of the License, or
